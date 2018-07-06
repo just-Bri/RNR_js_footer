@@ -1,7 +1,8 @@
 ## RNR_js_footer
 
 > This should be used in the following manner:
-> Install with npm via:
+
+Install with npm via:
 
 ```
 npm install --save RNR_js_footer
