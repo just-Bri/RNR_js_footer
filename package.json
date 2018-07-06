@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/reifnotreef/RNR_js_footer/issues"
   },
-  "homepage": "https://github.com/reifnotreef/RNR_js_footer#readme"
+  "homepage": "https://github.com/reifnotreef/RNR_js_footer#readme",
+  "dependencies": {
+    "moment": "^2.22.2"
+  }
 }
