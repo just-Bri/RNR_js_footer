@@ -1,0 +1,19 @@
+{
+  "name": "rnr_js_footer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reifnotreef/RNR_js_footer.git"
+  },
+  "author": "Bridger Reif Hammond <BridgerRHammond@gmail.com> (ReifNotReef.github.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/reifnotreef/RNR_js_footer/issues"
+  },
+  "homepage": "https://github.com/reifnotreef/RNR_js_footer#readme"
+}
